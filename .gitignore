@@ -1,0 +1,4 @@
+.env
+auth/
+auth_info_baileys/
+config/yukii-creds.json
